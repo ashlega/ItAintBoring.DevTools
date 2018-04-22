@@ -1,0 +1,11 @@
+﻿1. Need to add overflow-y to the container 
+        .components-container div {
+                margin-left: 2px;
+				overflow-y: auto;
+                overflow-x: hidden;
+            }
+                
+
+   But that breaks the popup menu
+
+2.
