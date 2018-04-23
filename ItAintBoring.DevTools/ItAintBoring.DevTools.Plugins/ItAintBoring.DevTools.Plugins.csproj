@@ -76,6 +76,7 @@
   <ItemGroup>
     <None Include="DevTools.snk" />
     <None Include="packages.config" />
+    <None Include="Solutions\DevTools_1_0_0_0.zip" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
